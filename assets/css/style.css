@@ -99,12 +99,19 @@ ul li a:hover{
     font-family: 'Dancing Script', cursive;
     font-weight: 900;
     color: #fff;
-    font-size: 45px;
+    font-size: 55px;
 }
+.time-text{
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+    
+}
+
 .main-banner p{
     color: #fff;
+    font-family: 'Dancing Script', cursive;
     margin-top: 20px;
-    font-size: 15px;
+    font-size: 30px;
 }
 .banner-button{
     margin-top: 50px;
@@ -395,6 +402,7 @@ footer i {
     }
     .logo{
         width: auto;
+        margin-left: 20px;
     }
     .header-buttons button {
         font-size: 14px;
@@ -408,16 +416,14 @@ footer i {
     .contactAddress{
         width: 40%;
     }
-    /* html{
-        font-size: 52%;
-    } */
+    
     .toggleBtn{
         position: absolute;
         left: 88%;
-        top: -9vh;
+        top: -10vh;
     }
     .bars{
-        font-size: 3rem;
+        font-size: 1.5rem;
     }
     .navBarline{
         display: none;
@@ -444,6 +450,25 @@ footer i {
     }
     .main-banner{
         background-size: 100% 100%;
+        font-size: 30px;
         /* padding: 20px; */
     }
+    .main-banner h1{
+        font-family: 'Dancing Script', cursive;
+        font-weight: 900;
+        color: #fff;
+        font-size: 30px;
+    }
+    .time-text{
+        font-family: 'Dancing Script', cursive;
+        font-size: 30px;
+        
+    }
+}   
+
+.open-text{
+    font-family: 'Dancing Script', cursive;
+        font-size: 40px;
+        margin-bottom: 30px;
+        color: rgb(7, 7, 7);
 }
