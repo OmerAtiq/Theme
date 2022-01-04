@@ -66,6 +66,7 @@ ul li a:hover{
 .brand-logo {
     text-align: center;
     /* margin-top: 0px !important; */
+        color: var(--black);
     font-family: 'Dancing Script', cursive !important;
     font-size: 26px;
     font-weight: bold;
