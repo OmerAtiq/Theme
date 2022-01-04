@@ -39,9 +39,7 @@
 .header-buttons button:focus{
     box-shadow: none;
 }
-.brand-logo img {
-    width: 140px;
-}
+
 .logo{
     width: 40%;
 }
@@ -67,7 +65,10 @@ ul li a:hover{
 }
 .brand-logo {
     text-align: center;
-    margin-top: 7px;
+    /* margin-top: 0px !important; */
+    font-family: 'Dancing Script', cursive !important;
+    font-size: 26px;
+    font-weight: bold;
 }
 .border-bottom{
     border-bottom: 1px solid #000 !important;
@@ -420,7 +421,7 @@ footer i {
     .toggleBtn{
         position: absolute;
         left: 88%;
-        top: -7.5vh;
+        top: -8.8vh;
     }
     .bars{
         font-size: 1.5rem;
@@ -464,6 +465,7 @@ footer i {
         font-size: 30px;
         
     }
+
 }   
 
 .open-text{
